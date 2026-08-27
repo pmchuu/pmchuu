@@ -23,7 +23,7 @@
 
 
 <p align="center">
-<a href="https://apathyic.atabook.org">ata</a>book
+sign my <a href="https://apathyic.atabook.org">ata</a>
 </p>
 
 <p align="center">
@@ -31,5 +31,5 @@
 </p>
 
 <p align="center">
-‎i'll add more info when i'm motivated ‎
+‎<a href="https://github.com/winebullets">main</a> account
 </p>
